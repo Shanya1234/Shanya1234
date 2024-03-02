@@ -95,10 +95,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Andriyas05&show_icons=true&theme=dark&locale=en" alt="Andriyas Saini" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andriyas05&show_icons=true&theme=dark&locale=en&layout=compact" alt="Andriyas Saini" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Shanya1234&show_icons=true&theme=dark&locale=en" alt="Shanya Jain" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shanya1234&show_icons=true&theme=dark&locale=en&layout=compact" alt="Shanya Jain" /></td>
   </tr>
   <tr>
-    <td colspan="2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andriyas05&show_icons=true&theme=dark" alt="andriyas05" /></p></td>
+    <td colspan="2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanya1234&show_icons=true&theme=dark" alt="Shanya Jain" /></p></td>
   </tr>
 </table>
